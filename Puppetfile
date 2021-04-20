@@ -140,3 +140,4 @@ mod 'rgbank',
 mod 'netstat',
     git: 'https://github.com/ipcrm/ipcrm-netstat.git',
     ref: '64bcee0'
+mod 'puppetlabs-patching_as_code', '0.6.1'
